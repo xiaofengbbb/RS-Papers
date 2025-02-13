@@ -1,6 +1,8 @@
 # Recommended System Security Resource Library Targeting Attacks and Defenses
 
-## Attacks against  Recommender System
+# Recommended System Security Resource Library Targeting Attacks and Defenses
+
+## Taxonomy of Attacks against  Recommender System
 
 | Category                                            | Subcategory                             | Paper                                                        | Authors                        | Year | Venue           | Attack Target           |
 | --------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------ | ---- | --------------- | ----------------------- |
@@ -159,3 +161,13 @@
 | Abnormality Forensics for Real-world Data       | Anomaly Forensics Analysis                | [Inference of Suspicious Co-Visitation and Co-Rating Behaviors and Abnormality Forensics for Recommender Systems](https://ieeexplore.ieee.org/document/9020128/?arnumber=9020128) | Yang et al., 2020 Infer         | 2020 | CCF-A TIFS            | Symbiotic Connection    |
 | Abnormality Forensics for Real-world Data       | Anomaly Forensics Analysis                | [hPSD: A Hybrid PU-Learning-Based Spammer Detection Model for Product Reviews](https://ieeexplore.ieee.org/document/8520779/?arnumber=8520779) | Wu et al., 2020 hPSD            | 2020 | CCF-B                 | Side Information Fusion |
 | Abnormality Forensics for Real-world Data       | Anomaly Forensics Analysis                | [Uncovering anomalous rating behaviors for rating systems](https://www.sciencedirect.com/science/article/pii/S0925231218305228) | Yang et al., 2018 Uncov         | 2018 | CCF-C                 | Suspicious Targeting    |
+
+##  Datasets
+
+| Datasets                                                     | Introduction                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Movielens](http://files.grouplens.org/datasets/movielens/)  | MovieLens is a practical movie recommendation platform where users can browse movies, rate and comment, and obtain personalized movie recommendations based on the recommendation system. To support research and development, the GroupLens Research team regularly releases the MovieLens dataset for use by researchers and developers. |
+| [Amazon Beauty](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Beauty.csv) | The Amazon Beauty dataset is collected from the Amazon website and covers product reviews related to beauty. As one of the world's largest e-commerce platforms, Amazon has rich and diverse user review data. |
+| [Steam](http://cseweb.ucsd.edu/~wckang/steam_reviews.json.gz) | Steam is a digital distribution platform developed by Valve Corporation, providing features such as game purchase, download, update, and community interaction. Due to its large user base and rich game content, user behavior data on the Steam platform (such as game purchases, game duration, reviews, etc.) provides valuable resources for recommendation system research. |
+| [YooChoose](https://s3-eu-west-1.amazonaws.com/yc-rdata/yoochoose-data.7z) | The YooChoose dataset is sourced from an online retail platform and records users' browsing and purchasing behavior on the platform. It includes users' clicking and purchasing behaviors towards products, reflecting their real behavior patterns on e-commerce platforms. Due to its large data scale and rich behavior sequences, the YooChoose dataset has become one of the commonly used benchmark datasets in recommendation system research. |
+| [Amazon Video Games](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Video_Games.csv) | The Amazon Video Games dataset comes from the Amazon platform and contains user purchase, rating, and review data for video games. |
