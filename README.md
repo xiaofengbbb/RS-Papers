@@ -1,6 +1,5 @@
 # Recommended System Security Resource Library Targeting Attacks and Defenses
 
-# Recommended System Security Resource Library Targeting Attacks and Defenses
 
 ## Taxonomy of Attacks against  Recommender System
 
