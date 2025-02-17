@@ -1,4 +1,5 @@
 # Recommended System Security Resource Library Targeting Attacks and Defenses
+![Fig1](https://github.com/user-attachments/assets/a80664bb-f64e-4624-a6e3-11691f1fcb74)
 
 
 ## Taxonomy of Attacks against  Recommender System
